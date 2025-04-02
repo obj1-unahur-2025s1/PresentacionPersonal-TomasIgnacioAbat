@@ -1,5 +1,5 @@
-![Logo UNAHUR](./UNAHUR.png)
 ![Mi Foto](./MiFoto.jpg)
+![Logo UNAHUR](./UNAHUR.png)
 # Programación con objetos I
 ## Presentación Personal
 
