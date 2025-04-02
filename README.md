@@ -1,13 +1,16 @@
 ![Logo UNAHUR](./UNAHUR.png)
-
+![Mi Foto](./MiFoto.jpg)
 # Programación con objetos I
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Tomas Ignacio Abat
+- Vivo en Morón
+- Estudio la tecnicaturaa en Programacion de Videojuegos
+- Tengo 21 años actualmente (Ya cumplidos este año)
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este es mi primer contacto con github y con la materia
+- No tengo ningun gato ni perro
+- Me encantan los desafíos
